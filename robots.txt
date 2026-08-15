@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-byl8nu.juragan89.xyz/sitemap.xml
